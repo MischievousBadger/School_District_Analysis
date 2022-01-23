@@ -36,7 +36,7 @@ The purpose of this school district analysis for PyCity Schools is to repeat the
     
     ![image](Resources/reading_scores_by_grade_post.PNG)
     
-    - Scores by school spending
+    - Scores by school spending  test
     
     ![image](Resources/scores_school_spending_pre.PNG)
     
