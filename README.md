@@ -44,7 +44,7 @@ The purpose of this school district analysis for PyCity Schools is to repeat the
     
     - Scores by school size
 
-    ![image](Resources/scores_school_size_pre.PNG)
+    ![image](Resources/scores_school_size_pre1.png)
     
     ![image](Resources/scores_school_size_post.PNG)
     
