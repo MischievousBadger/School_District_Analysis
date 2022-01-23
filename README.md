@@ -38,31 +38,59 @@ After recalculating percentages to include only tenth through twelfth grade stud
 - How does replacing the ninth-grade score affect the following:
     - Math and reading scores by grade
     
+    Original math scores by grade: 
+    
     ![image](Resources/math_scores_by_grade_pre.PNG)
+    
+    Updated math scores by grade: 
     
     ![image](Resources/math_scores_by_grade_post.PNG)
     
+    Original reading scores by grade:
+    
     ![image](Resources/reading_scores_by_grade_pre.PNG)
+
+    Updated reading scores by grade: 
     
     ![image](Resources/reading_scores_by_grade_post.PNG)
     
-    - Scores by school spending  test
+    There were no changes to both average math and reading scores following the replacement of the ninth-grade scores with NaNs, with the exception of the 9th grade Thomas High School data post-update to reflect no grades for math or reading.  
+    
+    - Scores by school spending  
+
+    Original scores by school spending: 
     
     ![image](Resources/scores_school_spending_pre.PNG)
     
+    Updated scores by school spending: 
+    
     ![image](Resources/scores_school_spending_post.PNG)
+    
+    Changes to scores by school spending were minimal and did not affect the rounded average math and reading scores, or the passing math, passing, reading, and overall passing percentages. 
     
     - Scores by school size
 
+    Original scores by school size:
+    
     ![image](Resources/scores_school_size_pre1.png)
+    
+    Updated scores by school size:
     
     ![image](Resources/scores_school_size_post.PNG)
     
+    Overall, changes to scores by school size from the original summary were so minimal as to not affect the rounded average math and reading scores, or the passing math, passing reading, or overall passing percentages. 
+    
     - Scores by school type
+
+    Original scores by school type: 
 
     ![image](Resources/scores_school_type_pre.PNG)
     
+    Updated scores by school type: 
+    
     ![image](Resources/scores_school_type_post.PNG)
+    
+    Changes to scores by school type from the original summary were minimal and did not affect the rounded average math and    reading scores, or the passing math, passing reading, or overall passing percentages. 
 
 
 ## Summary
