@@ -11,7 +11,7 @@ The original district summary (below) shows slightly higher math and reading ave
 
 ![image](Resources/district_summary_pre.PNG)
 
- Following the replacement of the scores (below), average math scores dropped by 0.1 while average reading scores stayed the same.  The percentage of students passing math dropped 0.2%, passing reading dropped 0.3%, and the overall percentage of students passing both math and reading dropped 0.1%.    
+Following the replacement of the scores (below), average math scores dropped by 0.1 points while average reading scores stayed the same.  The percentage of students passing math dropped 0.2%, passing reading dropped 0.3%, and the overall percentage of students passing both math and reading dropped 0.1%.    
 
 ![image](Resources/district_summary_post.PNG)
 
@@ -94,4 +94,8 @@ After recalculating percentages to include only tenth through twelfth grade stud
 
 
 ## Summary
-Summarize 4 changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+The updated school district analysis, following replacement of the Thomas High School's ninth grade math and reading scores, reflects 4 changes from the original analysis.  
+- The updated district summary shows a slightly lower math average score, and lower passing math, passing reading, and overall passing percentages than the original analysis.  
+- The updated school summary reflected a drop in average math scores at Thomas High School of approximately 0.7 points, while average math scores rose approximately 0.05 points.   
+- The updated school summary, following recalculation of percentages to count only tenth through twelfth graders in the Thomas High School student count, showed the % passing math, reading and overall passing dropped slightly from the original school summary (approximately 0.09% lower passing math percentage, 0.29% lower passing reading percentage, and 0.32% lower overall passing percentage).  
+- The updated math and reading scores by grade section reflects the replacement of the Thomas High School ninth grade math and reading scores with NaNs for that row and column.  
